@@ -100,7 +100,7 @@
   <img src="Images/9.png">
 
   <h3> Code & Data </h3>
-  <ul> <b> bert based </b>
+  <ul>
     <li>Code is stored in notebook</li>
     <li>Splits download in notebook </li>
   </ul>
