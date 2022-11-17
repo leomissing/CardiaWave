@@ -98,9 +98,16 @@
   <b>Correct anomaly predictions 145/145</b>
   All abnormal heart rhythms have been detected correctly. The setting of the threshold is highly dependent on the number of learning epochs.
   <img src="Images/9.png">
+  <h3>Inference and tech</h3>
+  <ul>
+    <li>Mean inference speed: 200 samples\second on google colab</li>
+    <li>Runs on both GPU and CPU  </li>
+  </ul>
 
   <h3> Code & Data </h3>
   <ul>
     <li>Code is stored in notebook</li>
     <li>Splits download in notebook </li>
+	<li>Trained model stored near notebook</li>
+	<li>Execution code stored in predict.py</li>
   </ul>
