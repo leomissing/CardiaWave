@@ -1,4 +1,4 @@
-  <h1>Heart-Rhythm</h1>
+  <h1>CardiaWave</h1>
   <h3>Concept</h3>
   Identify abnormalities from corrupted heartbeat time series.
 
